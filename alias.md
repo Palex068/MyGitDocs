@@ -16,3 +16,15 @@ Git не выводит автоматически вашу команду, ес
 Не стесняйтесь создавать новые псевдонимы.
 
 Этот метод также может быть очень полезен при создании команд, которые, по вашему мнению, должны существовать.
+
+Код для настройки привычных сокращений
+
+```
+git config --global alias.cfg config
+git cfg --global alias.co checkout
+git cfg --global alias.br branch
+git cfg --global alias.ci commit
+git cfg --global alias.st status
+git cfg --global alias.lol "log --oneline --graph"
+```
+
