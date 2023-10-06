@@ -6,7 +6,7 @@
 
 # Книги
 
-[Git для профессионального программиста](https://github.com/Palex068/MyGitDocs/raw/main/Git_for_a_professional_programmer.pdf)
+Git для профессионального программиста [Читать](/Git_for_a_professional_programmer.pdf) [Скачать](https://github.com/Palex068/MyGitDocs/raw/main/Git_for_a_professional_programmer.pdf)
 
 
 # Статьи
