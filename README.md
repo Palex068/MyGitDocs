@@ -13,7 +13,10 @@
 # Статьи
 
 [Создание псевдонимов с помощью команды git config](/alias.md)<br>
+[Шпаргалка по консольным командам Git](/GitСommands/README.md)<br>
+[Шпаргалка по bash](/BashCommands/README.md)
 
-[Шпаргалка по консольным командам Git](/GitСommands/README.md)
 
+# Ссылки
 
+[Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
