@@ -20,8 +20,8 @@
 
 
 # Ссылки
-
 [The Pro Git book](https://git-scm.com/book/ru/v2)<br>
 [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)<br>
+[Набор смайликов](https://emojidb.org/)<br>
 [Habr: 28 расширений VS Code для разработки документации](https://habr.com/ru/articles/698702/)
 
