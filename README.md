@@ -17,6 +17,7 @@
 [Создание псевдонимов с помощью команды git config](/alias.md)<br>
 [Шпаргалка по консольным командам Git](/GitСommands/README.md)<br>
 [Шпаргалка по bash](/BashCommands/README.md)
+[Расширения VSCode](/VSCodeExt.md)
 
 
 # Ссылки
@@ -24,4 +25,3 @@
 [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)<br>
 [Набор смайликов](https://emojidb.org/)<br>
 [Habr: 28 расширений VS Code для разработки документации](https://habr.com/ru/articles/698702/)
-
