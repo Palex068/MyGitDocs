@@ -25,4 +25,5 @@
 + [Набор смайликов](https://emojidb.org/)<br>
 + [Habr: 28 расширений VS Code для разработки документации](https://habr.com/ru/articles/698702/)<br>
 + [Как я превратил VSCode в свой любимый редактор Markdown](https://dzen.ru/a/ZqNMD43cDxosLwdd)<br>
-+ [Математические формулы в LaTeX](https://ru.wikibooks.org/wiki/Математические_формулы_в_LaTeX)
++ [Математические формулы в LaTeX](https://ru.wikibooks.org/wiki/Математические_формулы_в_LaTeX)<br>
++ [Осваиваем LaTeX за 30 минут](https://habr.com/ru/companies/ruvds/articles/574352/)
