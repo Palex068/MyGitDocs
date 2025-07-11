@@ -11,7 +11,7 @@ Git не выводит автоматически вашу команду, ес
 
 Это означает, что, например, вместо ввода git commit вам просто нужно ввести git ci.
 
-Продолжая использовать Git, вы, вероятно, будете часто использовать и другие команды; 
+Продолжая использовать Git, вы, вероятно, будете часто использовать и другие команды;
 
 Не стесняйтесь создавать новые псевдонимы.
 
@@ -19,7 +19,7 @@ Git не выводит автоматически вашу команду, ес
 
 Код для настройки привычных сокращений
 
-```
+```bash
 git config --global alias.cfg config
 git cfg --global alias.co checkout
 git cfg --global alias.br branch
@@ -27,4 +27,3 @@ git cfg --global alias.ci commit
 git cfg --global alias.st status
 git cfg --global alias.lol "log --oneline --graph"
 ```
-
